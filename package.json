@@ -1,0 +1,35 @@
+{
+  "name": "styled-jsx-plugin-stylelint",
+  "version": "0.1.0",
+  "description": "Plugin to use stylelint with styled-jsx",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giuseppeg/styled-jsx-plugin-stylelint.git"
+  },
+  "keywords": [
+    "styled-jsx-plugin",
+    "styled-jsx",
+    "stylelint",
+    "linter"
+  ],
+  "author": "Giuseppe Gurgone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giuseppeg/styled-jsx-plugin-stylelint/issues"
+  },
+  "homepage": "https://github.com/giuseppeg/styled-jsx-plugin-stylelint#readme",
+  "dependencies": {
+    "deasync": "^0.1.10",
+    "postcss": "^6.0.13",
+    "postcss-reporter": "^5.0.0",
+    "strip-indent": "^2.0.0",
+    "stylelint": "^8.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
