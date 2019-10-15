@@ -27,7 +27,7 @@
     "postcss": "^6.0.13",
     "postcss-reporter": "^5.0.0",
     "strip-indent": "^2.0.0",
-    "stylelint": "^8.2.0"
+    "stylelint": "^10.1.0"
   },
   "devDependencies": {
     "mocha": "^4.0.1"
